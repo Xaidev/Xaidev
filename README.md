@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hola, soy Xaidev 👋
+
+Soy un desarrollador apasionado por la programación y la tecnología.
+
+## Mis habilidades
+
+- Java
+- C
+- Python
 
 <!--
 **Xaidev/Xaidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
